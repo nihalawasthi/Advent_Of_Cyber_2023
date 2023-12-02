@@ -18,9 +18,9 @@ Furthermore, data science aids in the development of robust encryption methods a
 <h4>
 1. How many packets were captured (looking at the PacketNumber)? <br>
 Ans:100<br>
-What IP address sent the most amount of traffic during the packet capture?<br>
+2. What IP address sent the most amount of traffic during the packet capture?<br>
 Ans:10.10.1.4  <br>
-What was the most frequent protocol? <br>
+3. What was the most frequent protocol? <br>
 Ans: ICMP 
 </h4>
 
