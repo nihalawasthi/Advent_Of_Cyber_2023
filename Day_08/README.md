@@ -2,7 +2,7 @@
 <p>
 The drama unfolds as the Best Festival Company and AntarctiCrafts merger wraps up! Tracy McGreedy, now a grumpy regional manager, secretly plans sabotage. His sidekick, Van Sprinkles, hesitantly kicks off a cyber attack – but guess what? Van Sprinkles is having second thoughts and helps McSkidy's team bust McGreedy's evil scheme
 </p>
-<h3>Day 9 — Tasks Answers</h3>
+<h3>Day 8 — Tasks Answers</h3>
 1. What is the malware C2 server name?<br>
 Ans: mcgreedysecretc2.thm
 <br>
