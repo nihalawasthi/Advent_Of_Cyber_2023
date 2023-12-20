@@ -13,7 +13,7 @@ Furthermore, data science aids in the development of robust encryption methods a
 <li>Open the notebook "Workbook" located in the directory "4_Capstone" on the VM.</li>
 </ul>
 
-<h2>Day 1 — Tasks</h2>
+<h2>Day 2 — Tasks</h2>
 
 <h4>
 1. How many packets were captured (looking at the PacketNumber)? <br>
