@@ -11,4 +11,4 @@ Throughout the room, you’ll see that some users have too many permissions. We 
 Ans: 03E805D8A8C5AA435FB48832DAD620E3
 <br>
 2. How many unique domains were accessed by all workstations?<br>
-Ans: 
+Ans: THM{XMAS_IS_SAFE}
