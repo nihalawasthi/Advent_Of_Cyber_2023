@@ -8,4 +8,4 @@ Ans: firewall and honeypot
 4. Which firewall command is used to block traffic?
 Ans: deny
 5. There is a flag in one of the stories. Can you find it?
-Ans: 
+Ans: THM{P0T$_W@11S_4_S@N7@}
