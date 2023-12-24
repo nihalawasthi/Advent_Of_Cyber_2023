@@ -1,6 +1,6 @@
 <h1>Advent Of Cyber 2023</h1>
 <p>
-<img src ="https://github.com/nihalawasthi/Advent_Of_Cyber_2023/assets/137594290/548620bb-63fd-479a-96a6-a13c9493f465">
+<img src ="AOC.png">
 
 Welcome to the Advent of Cyber 2023 repository! This repository contains Solutions to all of the questions in Advent Of Cyber December 2023.
 
