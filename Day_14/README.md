@@ -10,4 +10,4 @@
 #### 5. What is the name of the process used to provide feedback to the Neural Network on how close its prediction was?
 #### Ans: Back-Propagation
 #### 6. What is the value of the flag you received after achieving more than 90% accuracy on your submitted predictions?
-#### 
+#### Ans: THM{Neural.Networks.are.Neat!}
